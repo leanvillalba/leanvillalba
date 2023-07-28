@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### About Me:
 
 - ⌨️ Full Stack Developer
-- 👨‍🏫 Maths and Computer Teacher
 - 💻 Technology
 - ⚽ Football
 - :speech_balloon: How to reach me **leandrovillalba.dev@gmail.com**
