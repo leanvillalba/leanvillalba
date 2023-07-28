@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 ### About Me:
 
-- ⌨️ Full Stack Developer
-- 💻 Technology
-- ⚽ Football
+My ambition is to help development teams by working as a team and solving problems by using good effective communication and compromise.
+
+My highlights:
+1. Constant and passionate
+2. I like to understand well what I do
+I am excited about the opportunities and challenges that will allow me to use my proficiency with Java, Spring, Spring Boot, JEE, JSP, JPA, Thymeleaf, SQL, MySql,  Git, GitHub, also HTML5, CSS, JavaScript and Bootstrap, and be able to take advantage of my existing learning.
+
 - :speech_balloon: How to reach me **leandrovillalba.dev@gmail.com**
 - :link: Connect with me: <a href="https://linkedin.com/in/leandro-villalba-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 
@@ -33,13 +37,13 @@ Here are some ideas to get you started:
                 <a href="#" target="_blank"> <img
                 </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
-                width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
-                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                width="55" height="40" margin-right="3px"/> </a> </a> <a href="#" target="_blank"> <img
                 src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
                 src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="css3"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
+                width="40" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
+                width="40" height="40" margin-right="3px"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
