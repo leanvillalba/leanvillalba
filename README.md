@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi :v: 👋, I am Leandro Alan Villalba </h1>
+<h1 align="center">Hi :v:, I am Leandro Alan Villalba </h1>
 <h3 align="center">I am a Full Stack Developer, from Chile </h3>
 
 ### About Me:
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - :link: Connect with me: <a href="https://linkedin.com/in/leandro-villalba-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 
 
-<h3 align="left">Languages and Tools :bowtie::</h3>
+<h3 align="left">Languages and Tools</h3>
     <p align="left"> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
