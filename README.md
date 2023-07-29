@@ -22,6 +22,8 @@ My ambition is to help development teams by working as a team and solving proble
 My highlights:
 1. Constant and passionate
 2. I like to understand well what I do
+
+
 I am excited about the opportunities and challenges that will allow me to use my proficiency with Java, Spring, Spring Boot, JEE, JSP, JPA, Thymeleaf, SQL, MySql,  Git, GitHub, also HTML5, CSS, JavaScript and Bootstrap, and be able to take advantage of my existing learning.
 
 - :speech_balloon: How to reach me **leandrovillalba.dev@gmail.com**
