@@ -17,15 +17,20 @@ Here are some ideas to get you started:
 
 ### About Me:
 
-My ambition is to help development teams by working as a team and solving problems by using good effective communication and compromise.
+Passionate about software development and problem-solving, my mission is to empower teams through effective communication and a collaborative approach.
 
-My highlights:
-1. Constant and passionate
-2. I like to understand well what I do
+Highlights:
 
+✓ Constant commitment to excellence and continuous improvement.
+✓ I seek to deeply understand every aspect of my work to deliver quality solutions.
 
-I am excited about the opportunities and challenges that will allow me to use my proficiency with Java, Spring, Spring Boot, JEE, JSP, JPA, Thymeleaf, SQL, MySql,  Git, GitHub, also HTML5, CSS, JavaScript and Bootstrap, and be able to take advantage of my existing learning.
+Significant experience in:
 
+✔ Development with Java, Spring, Spring Boot, JEE, JSP, Thymeleaf, and JPA.
+✔ Proficient in SQL and MySql databases, as well as version control with Git and GitHub.
+✔ Skills in designing and developing web interfaces using HTML5, CSS, and JavaScript, with experience in Boostrap for modern and appealing presentations.
+
+I am excited about opportunities and challenges that allow me to apply my skills and knowledge in an innovative and ever-growing environment!
 - :speech_balloon: How to reach me **leandrovillalba.dev@gmail.com**
 - :link: Connect with me: <a href="https://linkedin.com/in/leandro-villalba-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 
