@@ -21,14 +21,14 @@ Passionate about software development and problem-solving, my mission is to empo
 
 Highlights:
 
-✓ Constant commitment to excellence and continuous improvement.
-✓ I seek to deeply understand every aspect of my work to deliver quality solutions.
+- ✓ Constant commitment to excellence and continuous improvement.
+- ✓ I seek to deeply understand every aspect of my work to deliver quality solutions.
 
 Significant experience in:
 
-✔ Development with Java, Spring, Spring Boot, JEE, JSP, Thymeleaf, and JPA.
-✔ Proficient in SQL and MySql databases, as well as version control with Git and GitHub.
-✔ Skills in designing and developing web interfaces using HTML5, CSS, and JavaScript, with experience in Boostrap for modern and appealing presentations.
+- ✔ Development with Java, Spring, Spring Boot, JEE, JSP, Thymeleaf, and JPA.
+- ✔ Proficient in SQL and MySql databases, as well as version control with Git and GitHub.
+- ✔ Skills in designing and developing web interfaces using HTML5, CSS, and JavaScript, with experience in Boostrap for modern and appealing presentations.
 
 I am excited about opportunities and challenges that allow me to apply my skills and knowledge in an innovative and ever-growing environment!
 - :speech_balloon: How to reach me **leandrovillalba.dev@gmail.com**
